@@ -1,10 +1,10 @@
 # Upwork Transaction Analysis Script
 
 ## Problem:
-Upwork doesn't provide any way to filter transactions based on preferences, such as calculating spending on connects.
+Upwork doesn't provide any way to filter transactions based on preferences, such as calculating spending only on connects or subscription.
 
 ## Solution:
-Using Python and Upwork's CSV download feature, a script was created to summarize crucial financial data.
+I created a Python Script that provides summary on the Transaction history you download from Upwork which you also are able to analyse by date. 
 
 ### Summary Includes:
 - Total Earnings from hourly contracts
